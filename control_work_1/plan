@@ -1,0 +1,28 @@
+lab03/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── example/
+│       │           ├── model/
+│       │           │   └── Book.java
+│       │           ├── dao/
+│       │           │   └── BookDAO.java
+│       │           ├── servlet/
+│       │           │   ├── BaseServlet.java
+│       │           │   ├── MainServlet.java
+│       │           │   ├── ShowBooksServlet.java
+│       │           │   ├── ShowBookServlet.java
+│       │           │   └── AddBookServlet.java
+│       │           └── listener/
+│       │               └── FreeMarkerConfigListener.java
+│       ├── resources/
+│       │   └── template/
+│       │       ├── index.ftlh
+│       │       ├── showBooks.ftlh
+│       │       └── bookForm.ftlh
+│       └── webapp/
+│           └── WEB-INF/
+│               └── web.xml
+├── pom.xml
+└── database.sql

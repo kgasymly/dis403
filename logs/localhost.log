@@ -1,0 +1,41 @@
+2025-10-04 17:18:02,235 [main] INFO  HttpServer- start HttpServer
+2025-10-04 17:19:32,213 [main] INFO  HttpServer- start HttpServer
+2025-10-04 17:19:56,903 [Thread-0] DEBUG RequestHandler- GET /home HTTP/1.1
+2025-10-04 17:19:56,903 [Thread-0] DEBUG RequestHandler- Host: localhost:1212
+2025-10-04 17:19:56,903 [Thread-0] DEBUG RequestHandler- Connection: keep-alive
+2025-10-04 17:19:56,903 [Thread-0] DEBUG RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-10-04 17:19:56,903 [Thread-0] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-10-04 17:19:56,903 [Thread-0] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-10-04 17:19:56,907 [Thread-0] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-10-04 17:19:56,909 [Thread-0] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-10-04 17:19:56,910 [Thread-0] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-10-04 17:19:56,911 [Thread-0] DEBUG RequestHandler- Sec-Fetch-Site: none
+2025-10-04 17:19:56,911 [Thread-0] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-10-04 17:19:56,911 [Thread-0] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-10-04 17:19:56,911 [Thread-0] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-10-04 17:19:56,912 [Thread-0] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-10-04 17:19:56,912 [Thread-0] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-10-04 17:19:56,912 [Thread-0] DEBUG RequestHandler- 
+2025-10-04 17:19:56,912 [Thread-0] DEBUG RequestHandler- end of request header
+2025-10-04 17:19:56,913 [Thread-0] DEBUG RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@53ef532e
+2025-10-04 17:19:56,916 [Thread-0] DEBUG RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@53ef532e
+2025-10-04 17:20:30,647 [Thread-1] DEBUG RequestHandler- GET /home/ret?name=kanan HTTP/1.1
+2025-10-04 17:20:30,649 [Thread-1] DEBUG RequestHandler- [name=kanan]
+2025-10-04 17:20:30,649 [Thread-1] DEBUG RequestHandler- Host: localhost:1212
+2025-10-04 17:20:30,649 [Thread-1] DEBUG RequestHandler- Connection: keep-alive
+2025-10-04 17:20:30,652 [Thread-1] DEBUG RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-10-04 17:20:30,652 [Thread-1] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-10-04 17:20:30,653 [Thread-1] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-10-04 17:20:30,653 [Thread-1] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-10-04 17:20:30,653 [Thread-1] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-10-04 17:20:30,653 [Thread-1] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-10-04 17:20:30,653 [Thread-1] DEBUG RequestHandler- Sec-Fetch-Site: none
+2025-10-04 17:20:30,653 [Thread-1] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-10-04 17:20:30,654 [Thread-1] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-10-04 17:20:30,654 [Thread-1] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-10-04 17:20:30,654 [Thread-1] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-10-04 17:20:30,654 [Thread-1] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-10-04 17:20:30,654 [Thread-1] DEBUG RequestHandler- 
+2025-10-04 17:20:30,654 [Thread-1] DEBUG RequestHandler- end of request header
+2025-10-04 17:20:30,654 [Thread-1] DEBUG RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1004405f
+2025-10-04 17:20:30,655 [Thread-1] DEBUG RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1004405f

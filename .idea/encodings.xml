@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/control_work_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/control_work_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_02_servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_02_servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_02_servlet/src/main/webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_02_servlet/src/main/webapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_04_db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_04_db/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_06_bcrypt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab1_06_bcrypt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab_01_06.09.25/logs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab_01_06.09.25/logs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab_01_06.09.25/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab_01_06.09.25/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab_05_authentifcate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab_05_authentifcate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

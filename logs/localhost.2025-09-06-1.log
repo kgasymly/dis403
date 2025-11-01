@@ -1,0 +1,192 @@
+2025-09-06 16:17:11,050 [main] INFO  HttpServer- start HttpServer
+2025-09-06 16:38:49,720 [main] INFO  HttpServer- start HttpServer
+2025-09-06 16:38:57,620 [Thread-0] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:38:57,620 [Thread-0] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:38:57,623 [Thread-0] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:38:57,624 [Thread-0] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:38:57,629 [Thread-0] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:38:57,629 [Thread-0] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:38:57,629 [Thread-0] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:38:57,630 [Thread-0] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:38:57,630 [Thread-0] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:38:57,630 [Thread-0] DEBUG RequestHandler- Sec-Fetch-Site: none
+2025-09-06 16:38:57,631 [Thread-0] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:38:57,631 [Thread-0] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:38:57,631 [Thread-0] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:38:57,633 [Thread-0] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:38:57,632 [Thread-1] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:38:57,633 [Thread-1] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:38:57,634 [Thread-1] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:38:57,634 [Thread-1] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:38:57,634 [Thread-1] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:38:57,634 [Thread-1] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:38:57,634 [Thread-1] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:38:57,634 [Thread-0] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:38:57,635 [Thread-0] DEBUG RequestHandler- 
+2025-09-06 16:38:57,635 [Thread-0] DEBUG RequestHandler- end of request header
+2025-09-06 16:38:57,635 [Thread-1] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:38:57,635 [Thread-1] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:38:57,636 [Thread-1] DEBUG RequestHandler- Sec-Fetch-Site: none
+2025-09-06 16:38:57,636 [Thread-1] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:38:57,636 [Thread-1] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:38:57,636 [Thread-1] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:38:57,637 [Thread-1] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:38:57,637 [Thread-1] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:38:57,637 [Thread-1] DEBUG RequestHandler- 
+2025-09-06 16:38:57,637 [Thread-1] DEBUG RequestHandler- end of request header
+2025-09-06 16:38:58,683 [Thread-2] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:38:58,684 [Thread-2] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:38:58,684 [Thread-2] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:38:58,684 [Thread-2] DEBUG RequestHandler- Cache-Control: max-age=0
+2025-09-06 16:38:58,685 [Thread-2] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:38:58,685 [Thread-2] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:38:58,685 [Thread-2] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- Sec-Fetch-Site: none
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:38:58,686 [Thread-2] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:38:58,686 [Thread-3] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:38:58,687 [Thread-2] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:38:58,687 [Thread-2] DEBUG RequestHandler- 
+2025-09-06 16:38:58,687 [Thread-2] DEBUG RequestHandler- end of request header
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- Cache-Control: max-age=0
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:38:58,687 [Thread-3] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- Sec-Fetch-Site: none
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- 
+2025-09-06 16:38:58,689 [Thread-3] DEBUG RequestHandler- end of request header
+2025-09-06 16:38:58,700 [Thread-4] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:38:58,701 [Thread-4] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:38:58,701 [Thread-4] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:38:58,703 [Thread-4] DEBUG RequestHandler- Cache-Control: max-age=0
+2025-09-06 16:38:58,704 [Thread-4] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:38:58,704 [Thread-4] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:38:58,704 [Thread-4] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:38:58,704 [Thread-4] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:38:58,704 [Thread-4] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:38:58,704 [Thread-4] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:38:58,705 [Thread-4] DEBUG RequestHandler- Sec-Fetch-Site: none
+2025-09-06 16:38:58,705 [Thread-4] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:38:58,705 [Thread-4] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:38:58,706 [Thread-4] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:38:58,706 [Thread-4] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:38:58,706 [Thread-4] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:38:58,706 [Thread-4] DEBUG RequestHandler- 
+2025-09-06 16:38:58,706 [Thread-4] DEBUG RequestHandler- end of request header
+2025-09-06 16:39:03,441 [Thread-5] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:39:03,442 [Thread-5] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:39:03,442 [Thread-5] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:39:03,443 [Thread-6] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Sec-Fetch-Site: cross-site
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:39:03,444 [Thread-6] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:39:03,445 [Thread-6] DEBUG RequestHandler- 
+2025-09-06 16:39:03,445 [Thread-6] DEBUG RequestHandler- end of request header
+2025-09-06 16:39:03,444 [Thread-5] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:39:03,447 [Thread-5] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:39:03,448 [Thread-5] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:39:03,448 [Thread-5] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:39:03,448 [Thread-5] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:39:03,448 [Thread-5] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:39:03,449 [Thread-5] DEBUG RequestHandler- Sec-Fetch-Site: cross-site
+2025-09-06 16:39:03,449 [Thread-5] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:39:03,449 [Thread-7] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:39:03,449 [Thread-7] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:39:03,449 [Thread-5] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:39:03,450 [Thread-5] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:39:03,451 [Thread-5] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:39:03,451 [Thread-5] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:39:03,451 [Thread-5] DEBUG RequestHandler- 
+2025-09-06 16:39:03,451 [Thread-5] DEBUG RequestHandler- end of request header
+2025-09-06 16:39:03,452 [Thread-7] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:39:03,453 [Thread-7] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:39:03,454 [Thread-7] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:39:03,455 [Thread-7] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:39:03,459 [Thread-7] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:39:03,460 [Thread-7] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:39:03,460 [Thread-7] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:39:03,460 [Thread-7] DEBUG RequestHandler- Sec-Fetch-Site: cross-site
+2025-09-06 16:39:03,460 [Thread-7] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:39:03,462 [Thread-7] DEBUG RequestHandler- Sec-Fetch-User: ?1
+2025-09-06 16:39:03,462 [Thread-7] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:39:03,462 [Thread-7] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:39:03,462 [Thread-7] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:39:03,462 [Thread-7] DEBUG RequestHandler- 
+2025-09-06 16:39:03,462 [Thread-7] DEBUG RequestHandler- end of request header
+2025-09-06 16:39:04,483 [Thread-9] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:39:04,484 [Thread-9] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- Cache-Control: max-age=0
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:39:04,485 [Thread-8] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:39:04,485 [Thread-8] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:39:04,486 [Thread-8] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:39:04,486 [Thread-8] DEBUG RequestHandler- Cache-Control: max-age=0
+2025-09-06 16:39:04,486 [Thread-8] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:39:04,486 [Thread-8] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:39:04,486 [Thread-8] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:39:04,486 [Thread-8] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:39:04,486 [Thread-8] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- Sec-Fetch-Site: cross-site
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- 
+2025-09-06 16:39:04,487 [Thread-8] DEBUG RequestHandler- end of request header
+2025-09-06 16:39:04,485 [Thread-9] DEBUG RequestHandler- Sec-Fetch-Site: cross-site
+2025-09-06 16:39:04,490 [Thread-9] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:39:04,490 [Thread-9] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:39:04,490 [Thread-9] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:39:04,490 [Thread-9] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:39:04,490 [Thread-9] DEBUG RequestHandler- 
+2025-09-06 16:39:04,490 [Thread-9] DEBUG RequestHandler- end of request header
+2025-09-06 16:39:04,491 [Thread-10] DEBUG RequestHandler- GET /resource HTTP/1.1
+2025-09-06 16:39:04,492 [Thread-10] DEBUG RequestHandler- Host: localhost:8080
+2025-09-06 16:39:04,492 [Thread-10] DEBUG RequestHandler- Connection: keep-alive
+2025-09-06 16:39:04,492 [Thread-10] DEBUG RequestHandler- Cache-Control: max-age=0
+2025-09-06 16:39:04,493 [Thread-10] DEBUG RequestHandler- sec-ch-ua: "Chromium";v="136", "YaBrowser";v="25.6", "Not.A/Brand";v="99", "Yowser";v="2.5"
+2025-09-06 16:39:04,495 [Thread-10] DEBUG RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-06 16:39:04,495 [Thread-10] DEBUG RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-06 16:39:04,495 [Thread-10] DEBUG RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-06 16:39:04,495 [Thread-10] DEBUG RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36
+2025-09-06 16:39:04,497 [Thread-10] DEBUG RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-06 16:39:04,499 [Thread-10] DEBUG RequestHandler- Sec-Fetch-Site: cross-site
+2025-09-06 16:39:04,499 [Thread-10] DEBUG RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-06 16:39:04,499 [Thread-10] DEBUG RequestHandler- Sec-Fetch-Dest: document
+2025-09-06 16:39:04,499 [Thread-10] DEBUG RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-06 16:39:04,499 [Thread-10] DEBUG RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-06 16:39:04,499 [Thread-10] DEBUG RequestHandler- 
+2025-09-06 16:39:04,499 [Thread-10] DEBUG RequestHandler- end of request header
